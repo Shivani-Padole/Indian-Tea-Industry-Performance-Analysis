@@ -1,5 +1,5 @@
 # ☕ Indian Tea Industry Performance Analysis
-A Power BI project analyzing the performance of the Indian tea industry, focusing on production, revenue, exports, pricing trends, and profitability.
+A Power BI project analyzing the performance of the Indian tea industry, highlighting trends in production, revenue, exports, pricing, and profitability across regions and tea types.
 
 ## 📌 Overview
 This project analyzes the performance of the Indian tea industry using Power BI.  
@@ -43,19 +43,19 @@ However, fragmented data makes it difficult to identify trends and support timel
 ## 📷 Dashboard Screenshots
 
 ### Overview Dashboard
-![Overview Dashboard](Images/overiew_dashboard.png)
+![Overview Dashboard](Indian-Tea-Industry-Performance-Analysis/Images/overview_dashboard.png)
 
 ### Regional Analysis
-![Regional Analysis](Images/regional_analysis.png)
+![Regional Analysis](Indian-Tea-Industry-Performance-Analysis/Images/regional_analysis.png)
 
 ### Tea Type Analysis
-![Tea Type Analysis](Images/tea_type_analysis.png)
+![Tea Type Analysis](Indian-Tea-Industry-Performance-Analysis/Images/tea_type_analysis.png)
 
 ### Export Insights
-![Export Insights](Images/export_insights.png)
+![Export Insights](Indian-Tea-Industry-Performance-Analysis/Images/export_insights.png)
 
 ### Price & Profit Analysis
-![Price & Profit Analysis](Images/price_profit_analysis.png)
+![Price & Profit Analysis](Indian-Tea-Industry-Performance-Analysis/Images/price_profit_analysis.png)
 
 ---
 
